@@ -1,3 +1,5 @@
+package patterns.strategy;
+
 public class PaymentProcessor {
     private PaymentStrategy paymentStrategy;
 

@@ -1,3 +1,5 @@
+package patterns.decorator;
+
 public class DecoratorPatternDemo {
     public static void main(String[] args) {
         // Simple espresso

@@ -1,3 +1,5 @@
+package patterns.decorator;
+
 public class Mocha extends CondimentDecorator {
     public Mocha(Beverage beverage) {
         super(beverage);

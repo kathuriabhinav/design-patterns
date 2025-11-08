@@ -1,3 +1,5 @@
+package patterns.observer;
+
 public class CurrentConditionsDisplay implements Observer {
     private float temperature;
     private float humidity;

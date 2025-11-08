@@ -1,3 +1,5 @@
+package patterns.strategy;
+
 public class CreditCardStrategy implements PaymentStrategy {
     private String cardNumber;
     private String name;

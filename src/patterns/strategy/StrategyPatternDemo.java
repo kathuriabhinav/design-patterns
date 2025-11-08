@@ -1,3 +1,5 @@
+package patterns.strategy;
+
 public class StrategyPatternDemo {
     public static void main(String[] args) {
         // Create the payment processor
