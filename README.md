@@ -1,3 +1,3 @@
 # Design Patterns
 
-design pattern implementations in Java
+A collection of Java implementations of design patterns inspired by Head First Design Patterns
