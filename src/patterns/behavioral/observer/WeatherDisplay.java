@@ -5,6 +5,7 @@ public class WeatherDisplay implements Observer {
     private float temperature;
     private float humidity;
 
+    @SuppressWarnings("LeakingThisInConstructor")
     public WeatherDisplay(Subject subject) {
         subject.registerObserver(this);
     }

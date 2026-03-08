@@ -7,6 +7,7 @@ public class ThreadSafeSingleton {
     private ThreadSafeSingleton() {
     }
 
+    @SuppressWarnings("DoubleCheckedLocking")
     public static ThreadSafeSingleton getInstance() {
         if (instance == null) {
             synchronized (ThreadSafeSingleton.class) {
