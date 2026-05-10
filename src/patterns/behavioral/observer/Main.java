@@ -1,6 +1,6 @@
 package patterns.behavioral.observer;
 
-public class ObserverDemo {
+public class Main {
 
     public static void main(String[] args) {
         WeatherStation station = new WeatherStation();

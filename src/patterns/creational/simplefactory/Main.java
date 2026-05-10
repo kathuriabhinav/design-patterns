@@ -1,6 +1,6 @@
 package patterns.creational.simplefactory;
 
-public class SimpleFactoryDemo {
+public class Main {
 
     public static void main(String[] args) {
         PizzaStore store = new PizzaStore(new PizzaFactory());

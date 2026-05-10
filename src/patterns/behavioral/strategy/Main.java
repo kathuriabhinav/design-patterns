@@ -1,6 +1,6 @@
 package patterns.behavioral.strategy;
 
-public class StrategyDemo {
+public class Main {
 
     public static void main(String[] args) {
         ShoppingCart cart = new ShoppingCart();

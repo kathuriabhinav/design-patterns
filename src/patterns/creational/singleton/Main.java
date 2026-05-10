@@ -1,6 +1,6 @@
 package patterns.creational.singleton;
 
-public class SingletonDemo {
+public class Main {
 
     public static void main(String[] args) {
         // Lazy Singleton

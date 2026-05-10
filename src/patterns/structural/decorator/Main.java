@@ -1,6 +1,6 @@
 package patterns.structural.decorator;
 
-public class DecoratorDemo {
+public class Main {
 
     public static void main(String[] args) {
         Beverage espresso = new Espresso();

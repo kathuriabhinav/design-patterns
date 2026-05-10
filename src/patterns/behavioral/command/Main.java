@@ -1,6 +1,6 @@
 package patterns.behavioral.command;
 
-public class CommandDemo {
+public class Main {
 
     public static void main(String[] args) {
         Light light = new Light();

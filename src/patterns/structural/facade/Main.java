@@ -5,7 +5,7 @@ package patterns.structural.facade;
  *
  * Use when you want to provide a simple interface to a complex set of classes.
  */
-public class FacadeDemo {
+public class Main {
 
     public static void main(String[] args) {
         HomeTheaterFacade homeTheater = new HomeTheaterFacade(

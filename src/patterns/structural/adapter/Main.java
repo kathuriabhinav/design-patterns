@@ -6,7 +6,7 @@ package patterns.structural.adapter;
  * Use when you need to use an existing class but its interface doesn't match
  * yours.
  */
-public class AdapterDemo {
+public class Main {
 
     public static void main(String[] args) {
         MediaPlayer vlcAdapter = new VlcPlayerAdapter(new VlcPlayer());
